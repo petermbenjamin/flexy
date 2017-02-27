@@ -4,8 +4,8 @@ logo: /images/svdb.png
 # pubkey: 13DB CAA1 2633 81A7
 menu:
   Home: /
-  Articles: /articles
   About: /about
+  Articles: /articles
   Resume: /resume
 
 # Content
